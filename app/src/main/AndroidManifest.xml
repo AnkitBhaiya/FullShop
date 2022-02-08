@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ankitsharma.fullshop">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FullShop">
+        <activity
+            android:name=".ElectronicsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BooksActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ClothesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".OilActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CongratulationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VegetablesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ShoesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

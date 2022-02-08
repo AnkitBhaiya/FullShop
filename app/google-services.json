@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049205016856",
+    "project_id": "full-shop-4a951",
+    "storage_bucket": "full-shop-4a951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049205016856:android:23d312ae584d61f87cf66d",
+        "android_client_info": {
+          "package_name": "com.ankitsharma.fullshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049205016856-n3h50asnnq07aavsnqcacaq3dnh46bu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwLPVUxnldUTBo5hJ6qQEPKPJbK9DQCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049205016856-n3h50asnnq07aavsnqcacaq3dnh46bu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
